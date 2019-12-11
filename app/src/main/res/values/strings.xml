@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SettingPrefs</string>
+    <string name="title_activity_settings">Préférences</string>
+
+
+    <string name="network">Reseau</string>
+    <string name="titre">Titre</string>
+    <string name="subtitle">Resumé quand pas sélectionné</string>
+    <string name="luminosity">Luminosité</string>
+    <string name="color">Couleurs</string>
+    <string name="choose_color">Choisir couleur</string>
+</resources>
